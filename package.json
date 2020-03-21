@@ -12,5 +12,14 @@
     "better-sqlite3": "^6.0.1",
     "cote": "^1.0.0",
     "quick.db": "github:truexpixels/quick.db"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vekat/pt-settings-service.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vekat/pt-settings-service/issues"
+  },
+  "homepage": "https://github.com/vekat/pt-settings-service#readme"
 }
