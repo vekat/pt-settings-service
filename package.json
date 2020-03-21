@@ -1,0 +1,16 @@
+{
+  "name": "settings",
+  "version": "0.1.0",
+  "description": "settings storage service",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=development node ."
+  },
+  "author": "Vitor Cortez <vitor.a.cortez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^6.0.1",
+    "cote": "^1.0.0",
+    "quick.db": "github:truexpixels/quick.db"
+  }
+}
